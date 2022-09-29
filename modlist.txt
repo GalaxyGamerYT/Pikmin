@@ -1,0 +1,103 @@
+    ADDED
+---------------
+astral sorcery
+blood magic
+AE2
+Refined Storage
+Galacticcraft
+Tinkers
+EnderIO
+AppleSkin
+Baubles
+Biomes O' Plenty
+Clumps
+Controlling
+ConnectedTexturesMod
+CraftTweaker
+Dank Storage
+Deep Mob Learning
+Enchantment Descriptions
+Ender Crop
+Ender Storage
+Ender Utilities
+Ender Tanks
+Forestry
+IC2
+Iron Chests
+Journey Map
+JEI
+Mekanism
+Mouse Tweaks
+Nature's Compass
+Patchouli
+Quark
+Storage Drawers
+Waystones
+Flux Networks
+Heart canisters
+builder's wands
+buiding gadgets
+ProjectE
+ProjectEX
+Immersive Engineering
+Mahou Tsukai
+xnet
+Draconic Evolution
+botania
+Pneumaticraft
+Build craft
+Ftb Backups
+FTB Utilities
+Veinminer
+just enough ids
+essentials
+optifine
+
+    TO ADD
+---------------
+akashic Tome
+secret rooms mod
+securitycraft
+aquaculture
+avaritia
+carryon
+compactdrawers
+compact machines
+craft tweaker
+custom starting gear
+cyclic
+danknull
+doggy talents
+electroblobs
+elevator mod
+envoronmental tech
+equivalent storage
+extended crafting
+extra utils
+jade
+ice and fire
+iron backpacks
+lucraftcore
+mekores
+mob grinding utils
+morph
+netherending ores
+open modular turrets
+pam's harvestcraft
+portalgun
+practical logistics
+project intelligence
+simple generators
+simple storage network
+sit
+spark
+torchmaster
+unidict
+wireless charger
+spice of life
+lootbags
+iron jetpacks
+industrial foregoing
+gravitygun
+extreme reactors
+big reactors
