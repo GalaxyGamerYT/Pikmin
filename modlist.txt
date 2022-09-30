@@ -68,10 +68,10 @@ chisel
 chisel and bits
 compact machines
 framed compact drawers
+avaritia
 
     TO ADD
 ---------------
-avaritia
 carryon
 craft tweaker
 custom starting gear
@@ -109,3 +109,9 @@ industrial foregoing
 gravitygun
 extreme reactors
 big reactors
+nuclear craft
+xnhilo
+macaws mods
+building/decorating mods
+carpenters blocks
+project red
