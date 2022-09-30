@@ -1,5 +1,3 @@
-    ADDED
----------------
 astral sorcery
 blood magic
 AE2
@@ -52,60 +50,5 @@ Veinminer
 just enough ids
 essentials
 optifine
-akashic Tome
-secret rooms mod
-securitycraft
-aquaculture
-water strainers
-iron furnace
-iron jetpacks
-iron backpacks
-tiny progressions
-tiny mobfarms
-apotheosis
-thaumcraft
-chisel
-chisel and bits
-compact machines
-framed compact drawers
 
-    TO ADD
----------------
-avaritia
-carryon
-craft tweaker
-custom starting gear
-cyclic
-danknull
-doggy talents
-electroblobs
-elevator mod
-envoronmental tech
-equivalent storage
-extended crafting
-extra utils
-jade
-ice and fire
-lucraftcore
-mekores
-mob grinding utils
-morph
-netherending ores
-open modular turrets
-pam's harvestcraft
-portalgun
-practical logistics
-project intelligence
-simple generators
-simple storage network
-sit
-spark
-torchmaster
-unidict
-wireless charger
-spice of life
-lootbags
-industrial foregoing
-gravitygun
-extreme reactors
-big reactors
+Addons for mods aren't included but are added in the modpack.
