@@ -52,17 +52,27 @@ Veinminer
 just enough ids
 essentials
 optifine
-
-    TO ADD
----------------
 akashic Tome
 secret rooms mod
 securitycraft
 aquaculture
+water strainers
+iron furnace
+iron jetpacks
+iron backpacks
+tiny progressions
+tiny mobfarms
+apotheosis
+thaumcraft
+chisel
+chisel and bits
+compact machines
+framed compact drawers
+
+    TO ADD
+---------------
 avaritia
 carryon
-compactdrawers
-compact machines
 craft tweaker
 custom starting gear
 cyclic
@@ -76,7 +86,6 @@ extended crafting
 extra utils
 jade
 ice and fire
-iron backpacks
 lucraftcore
 mekores
 mob grinding utils
@@ -96,7 +105,6 @@ unidict
 wireless charger
 spice of life
 lootbags
-iron jetpacks
 industrial foregoing
 gravitygun
 extreme reactors
