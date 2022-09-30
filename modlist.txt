@@ -70,14 +70,14 @@ compact machines
 framed compact drawers
 avaritia
 carryon
+cyclic
+danknull
+doggy talents
 
     TO ADD
 ---------------
 craft tweaker
 custom starting gear
-cyclic
-danknull
-doggy talents
 electroblobs
 elevator mod
 envoronmental tech
