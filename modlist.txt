@@ -73,40 +73,43 @@ carryon
 cyclic
 danknull
 doggy talents
+electroblobs
+elevator mod
+open blocks
+envoronmental tech
+extended crafting
+extra utils
+jade
+ice and fire
+mob grinding utils
+morph
+morphius
+netherending ores
+open modular turrets
+pam's harvestcraft
+farming blockheads
+portalgun
+gravitygun
+practical logistics
+project intelligence
+project red
+simple generators
+simple storage network
+simple magnets
+sit
+spark
+torchmaster
+unidict
 
     TO ADD
 ---------------
 craft tweaker
 custom starting gear
-electroblobs
-elevator mod
-envoronmental tech
-equivalent storage
-extended crafting
-extra utils
-jade
-ice and fire
 lucraftcore
-mekores
-mob grinding utils
-morph
-netherending ores
-open modular turrets
-pam's harvestcraft
-portalgun
-practical logistics
-project intelligence
-simple generators
-simple storage network
-sit
-spark
-torchmaster
-unidict
 wireless charger
 spice of life
 lootbags
 industrial foregoing
-gravitygun
 extreme reactors
 big reactors
 nuclear craft
