@@ -100,21 +100,23 @@ sit
 spark
 torchmaster
 unidict
+spice of life: carrot edition
+lootbags
+industrial foregoing
+extreme reactors
+nuclear craft
+Ex Nihilo
+macaw's mods
+bibliocraft
+block craftery
+cooking for blockheads
+weather, storms & tornadoes
+random things
+conforts
 
     TO ADD
 ---------------
 craft tweaker
 custom starting gear
-lucraftcore
-wireless charger
-spice of life
-lootbags
-industrial foregoing
-extreme reactors
-big reactors
-nuclear craft
-xnhilo
-macaws mods
+
 building/decorating mods
-carpenters blocks
-project red
