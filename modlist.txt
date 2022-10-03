@@ -1,5 +1,3 @@
-    ADDED
----------------
 astral sorcery
 blood magic
 AE2
@@ -114,9 +112,4 @@ weather, storms & tornadoes
 random things
 conforts
 
-    TO ADD
----------------
-craft tweaker
-custom starting gear
-
-building/decorating mods
+Addons for mods aren't included but are added in the modpack.
