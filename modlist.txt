@@ -50,5 +50,66 @@ Veinminer
 just enough ids
 essentials
 optifine
+akashic Tome
+secret rooms mod
+securitycraft
+aquaculture
+water strainers
+iron furnace
+iron jetpacks
+iron backpacks
+tiny progressions
+tiny mobfarms
+apotheosis
+thaumcraft
+chisel
+chisel and bits
+compact machines
+framed compact drawers
+avaritia
+carryon
+cyclic
+danknull
+doggy talents
+electroblobs
+elevator mod
+open blocks
+envoronmental tech
+extended crafting
+extra utils
+jade
+ice and fire
+mob grinding utils
+morph
+morphius
+netherending ores
+open modular turrets
+pam's harvestcraft
+farming blockheads
+portalgun
+gravitygun
+practical logistics
+project intelligence
+project red
+simple generators
+simple storage network
+simple magnets
+sit
+spark
+torchmaster
+unidict
+spice of life: carrot edition
+lootbags
+industrial foregoing
+extreme reactors
+nuclear craft
+Ex Nihilo
+macaw's mods
+bibliocraft
+block craftery
+cooking for blockheads
+weather, storms & tornadoes
+random things
+conforts
 
 Addons for mods aren't included but are added in the modpack.
