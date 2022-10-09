@@ -1,5 +1,5 @@
 # Pikmin
-Modpack for @PikminReal.
+Modpack for [PikminReal](https://github.com/PikminReal)
 
 Pikmin being a friend of mine.
 
